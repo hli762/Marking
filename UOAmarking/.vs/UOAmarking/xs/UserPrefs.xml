@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{8E7781D7-1772-4612-9CC5-21955B3B4A19}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UOAmarking PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/UOAmarkingController.cs">
+    <Files>
+      <File FileName="Models/CourseSupervisor.cs" Line="1" Column="1" />
+      <File FileName="Models/MarkerCoordinator.cs" Line="1" Column="1" />
+      <File FileName="Controllers/UOAmarkingController.cs" Line="243" Column="12" />
+      <File FileName="Models/User.cs" Line="1" Column="1" />
+      <File FileName="Models/Semester.cs" Line="1" Column="1" />
+      <File FileName="Models/MarkingHours.cs" Line="1" Column="1" />
+      <File FileName="Models/Course.cs" Line="1" Column="1" />
+      <File FileName="Models/Admin.cs" Line="1" Column="1" />
+      <File FileName="Dtos/UserUploadDto.cs" Line="1" Column="1" />
+      <File FileName="Dtos/UserInput.cs" Line="1" Column="1" />
+      <File FileName="Dtos/SemesterInput.cs" Line="1" Column="1" />
+      <File FileName="Dtos/CourseInput.cs" Line="1" Column="1" />
+      <File FileName="Data/DBWebAPIRepo.cs" Line="307" Column="44" />
+      <File FileName="Data/IWebAPIRepo.cs" Line="86" Column="46" />
+      <File FileName="Data/WebAPIDBContext.cs" Line="1" Column="1" />
+      <File FileName="Dtos/ApplicationInput.cs" Line="1" Column="1" />
+      <File FileName="Models/Application.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="Models/Assignment.cs" Line="15" Column="1" />
+      <File FileName="Dtos/AssignmentInput.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UOAmarking">
+            <Node name="UOAmarking">
+              <Node name="Controllers">
+                <Node name="UOAmarkingController.cs" selected="True" />
+              </Node>
+              <Node name="Handler" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
